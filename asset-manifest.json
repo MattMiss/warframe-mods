@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/warframe-mods/static/css/main.073c9b0a.css",
+    "main.js": "/warframe-mods/static/js/main.eb87b6ec.js",
+    "static/js/787.b0fc4b46.chunk.js": "/warframe-mods/static/js/787.b0fc4b46.chunk.js",
+    "static/media/logo.svg": "/warframe-mods/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/warframe-mods/index.html",
+    "main.073c9b0a.css.map": "/warframe-mods/static/css/main.073c9b0a.css.map",
+    "main.eb87b6ec.js.map": "/warframe-mods/static/js/main.eb87b6ec.js.map",
+    "787.b0fc4b46.chunk.js.map": "/warframe-mods/static/js/787.b0fc4b46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb87b6ec.js"
+  ]
+}
