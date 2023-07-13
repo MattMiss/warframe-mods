@@ -1,0 +1,40 @@
+.Tab {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.InnerHolder {
+    width: 90%;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+.Tab button {
+    width: 100%;
+    margin: 10px;
+    background-color: #ddd;
+}
+
+.Tab button:hover {
+    background-color: #bbb;
+}
+
+
+.ButtonWrapper {
+    margin-top:10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
